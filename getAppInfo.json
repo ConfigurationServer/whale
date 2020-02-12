@@ -1,0 +1,65 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+        "zhNotice": "紧急通知！刚刚做了一个非常SB的骚动作!没测试好就上传0.15版本！导致部分更新后手机会链接不上网，谢谢TG群里的朋友提醒！说要开全局才能正常！非常抱歉！",
+        "enNotice": "",
+        "descEn": [
+            "Welcome to use！",
+            "Connect the world, so easy!"
+            
+        ],
+        "desc": [
+            "欢迎使用！",
+            "连接世界，如此简单！"
+            
+        ],
+        "qa": [
+            {
+                "zhQuestion": "逗鲨是什么？",
+                "zhAnswer": "逗鲨是一款采用全新协议的vpn，高效安全！",
+                "enQuestion": "What is a FunnyShark?",
+                "enAnswer": "FunnyShark is a new protocol using the VPN, efficient and safe!"
+            },
+            {
+                "zhQuestion": "逗鲨免费吗？",
+                "zhAnswer": "完全免费！",
+                "enQuestion": "Is it free to play with Funnyshark?",
+                "enAnswer": "Totally free!"
+            }
+        ],
+        "comment": {
+            "zhTitle": "评价我们！",
+            "zhContent": "非常感谢使用逗鲨！逗鲨会不忘初心，把用户体验放第一位。在成长的过程中，需要大家的反馈和支持，如果觉得逗鲨不错，请给我们留言，帮我们改进，免费不易！谢谢大家！如果更新0.15版本的朋友上不了！请先退出应用，然后重新打开应用！在设置用1积分开锁全局！开启全局就能正常！",
+            "enTitle": "Give us a rating！",
+            "enContent": "Thank you very much!"
+        },
+        "adList": [
+            {
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.1.jpg",
+                "action": ""
+            },
+            {
+                "title": "",
+                "zhUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "enUrl": "https://whaleserver.site/config/shark/ad_0.2.jpg",
+                "action": ""
+            }
+        ],
+        "info": [
+            {
+                "zhTitle": "请勿更新0.15版本",
+                "zhContent": "哎呀！我擦！刚刚犯傻了！还没有测试好就上传谷歌商店！现在又是不可逆！我明天修复好在重新上传！如果还在用0.14版本的朋友请千万不要更新，更新后会导致显示连接上，但是没有网速。我已经在修复了，我会尽快重新上传，抱歉了！这立马就多了几个差评！多谢TG群的朋友反馈！谢谢！如果更新0.15版本的朋友上不了！请先退出应用，然后重新打开应用！在设置用1积分开锁全局！开启全局就能正常！",
+                "enTitle": "A new VPN!",
+                "enContent": "New VPN teaser beta!"
+            },{
+                "zhTitle": "致歉！！",
+                "zhContent": "关于昨天的一些言论，胖鲸深表歉意！可能是我自己心眼太小了，可是你们有谁知道逗鲨是我花了一个月多，基本每天下班都是吃完晚饭熬到凌晨2点多的产物，可能也就在电报群里的朋友知道，他们帮我见证逗鲨从一个初级想法到现在已经5000多用户的应用，而且现在逗鲨采用全新的协议，基本可以避过检测。我真不知道自己做错什么，还有VPN本身就是每个月都要维护，每个月都要给服务器商费用，我的目的也只是为了给愿意支持逗鲨的朋友，给他们提供更好的服务器。哎！多事之秋！大过年的还遇到这肺炎，希望大家都平平安安过个好年，我这段时间也一定会保证服务器都能使用，大家都出一份力。希望雨过天晴！",
+                "enTitle": "A new VPN!",
+                "enContent": "New VPN teaser beta!"
+            }
+        ]
+    }
+}
