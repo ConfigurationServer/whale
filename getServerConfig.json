@@ -8,7 +8,7 @@
         "c": true,
         "v": false,
         "gls":"p/BTBp24g0yg4JFQUMk94w==",
-        "cul": "vPyRoUTsZLdKlSf4pklYEWHPdsryFSLdMQG1cPTQjGF6rwHG77emEcsOt62Qx1SA",
+        "cul": "vPyRoUTsZLdKlSf4pklYEWHPdsryFSLdMQG1cPTQjGHGCuLm8X8JefCDeNptguMo",
         "server": [
             {
                 "level": "C级-青铜服务器",
@@ -333,7 +333,7 @@
                 "level": "S级-星耀服务器",
                 "levelEn": "Class S - starlight server",
                 "rc": 20,
-                "consume": "30",
+                "consume": "5",
                 "list": [	
                 	{
                         "host": "KAhAicbMCux5g2AR9TMq4Nva+FrmwMsV59vZ80PQfyc=",
