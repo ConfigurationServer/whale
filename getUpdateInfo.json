@@ -4,9 +4,9 @@
 	"data": {
 		"versionCode": 121,
 		"version": "1.2.1",
-		"zhDesc": "更新提示：1、优化连接！,更新网站：whalerun.net",
-		"enDesc": "1. The official launch!add：whalerun.net ",
-		"type": 1,
+		"zhDesc": "旧版本服务器已经无法使用，请更新最新版本,非谷歌更新网站：www.whalerun.net",
+		"enDesc": "Old version server is no longer available, please update the latest version, non-google update website: www.whalerun.net ",
+		"type": 2,
 		"source":""
 	}
 }
